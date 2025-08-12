@@ -826,8 +826,8 @@
     <!-- Hero Section -->
     <section class="hero">
         <div class="hero-content">
-            <h1>latest collection available  </h1>
-            <p>Discover the latest trends in fashion, technology and accessories with up to Flat 10% off selected items</p>
+            <h1>NEW STOCK  </h1>
+            <p>Discover the latest trends in fashion, technology and accessories with up to Flat 30% off selected items</p>
             <div class="hero-buttons">
                 <a href="#" class="btn btn-primary">Shop Now</a>
                 <a href="#" class="btn btn-secondary">Explore Deals</a>
